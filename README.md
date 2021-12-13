@@ -26,13 +26,15 @@ All together they meet the specification with a variance of 62.2 but Lot 3 indiv
 
 ## T-Tests on Suspension Coils
 
-When it comes to all lots together, we do not have sufficient information to reject the null hypothesis when using a normal level of importance, as the p-value is 0.06
-Lots 1 and 2 also reject the null hypothesis with p-values over 0.05
-Lot 3 cannot reject the null hypothesis with a p-value of 0.04168, therefore the variance in manufacturing fails to meet specifications
+When it comes to all lots together, we do not have sufficient information to reject the null hypothesis when using a normal level of importance, as the p-value is 0.06.
+Lots 1 and 2 also reject the null hypothesis with p-values over 0.05.
+Lot 3 cannot reject the null hypothesis with a p-value of 0.04168, therefore the variance in manufacturing fails to meet specifications.
 
 ## Study Design: MechaCar vs Competition
 
-To determine if MechaCar performs against competition, a two-sample test should be done using MechaCars data against a competitors
-Metrics of the data set should include fuel-effciency and maintenance cost vs the price of the vehicle
-Null hypothesis: MechaCar underperforms against it's competitors and has worse fuel-effciency and maintenance cost vs overall price compared to it's competitors
-Alternate hypothesis: MechaCar outperforms against it's competitors and has better fuel-effciency and maintenance cost vs overall price compared to it's competitors
+To determine if MechaCar performs against competition, a two-sample test should be done using MechaCars data against a competitors.
+Metrics of the data set should include fuel-effciency and maintenance cost vs the price of the vehicle.
+
+Null hypothesis: MechaCar underperforms against it's competitors and has worse fuel-effciency and maintenance cost vs overall price compared to it's competitors.
+
+Alternate hypothesis: MechaCar outperforms against it's competitors and has better fuel-effciency and maintenance cost vs overall price compared to it's competitors.
